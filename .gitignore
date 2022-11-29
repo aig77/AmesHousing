@@ -1,0 +1,7 @@
+predictions.csv
+dataset/data*
+dataset/sample*
+dataset/test.csv:*
+dataset/train.csv:*
+.vscode
+stacking.jpg
